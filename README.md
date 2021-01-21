@@ -1,5 +1,5 @@
 # DL_Car_logo
-machine learning practice with car brand
+Deep learning practice with car brand
 
 
 
